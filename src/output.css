@@ -824,6 +824,15 @@ video {
     justify-content: flex-start;
   }
 
+  .lg\:justify-between {
+    justify-content: space-between;
+  }
+
+  .lg\:px-12 {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
   .lg\:text-left {
     text-align: left;
   }
